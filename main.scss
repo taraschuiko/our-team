@@ -109,8 +109,8 @@ body {
 		}
 		.image-border:before {top:0;left:0;border-width: 1px 0 0 1px}
 		.image-border:after {top:0;right:0;border-width: 1px 1px 0 0}
-		.image-border>:first-child:before {bottom:-8px;right:0;border-width: 0 1px 1px 0}
-		.image-border>:first-child:after {bottom:-8px;left:0;border-width: 0 0 1px 1px}
+		.image-border>:first-child:before {bottom:0;right:0;border-width: 0 1px 1px 0}
+		.image-border>:first-child:after {bottom:0;left:0;border-width: 0 0 1px 1px}
 
 		.image-border{
 			padding: 14px 14px 0 14px;
